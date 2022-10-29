@@ -48,7 +48,7 @@ public class MyTriangle {
         
     }
     public static void main(String[] args) {
-        MyTriangle a= new MyTriangle(2, 1, 3, 0, 1, 3);
+        MyTriangle a= new MyTriangle(2, 1, 3, 1, 1, 3);
         System.out.println(a.toString());
         System.out.println(a.getPerimeter());
         System.out.println(a.getType());
